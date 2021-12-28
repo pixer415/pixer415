@@ -1,5 +1,5 @@
 - It is i, the lemp known as pixer. I like coding things every now and then.
-- I invented the Twerking Amogus Mosaic trend. T1C then made the bot (and currently maintains that project.)
+- I started the Twerking Amogus Mosaic trend. T1C then made the bot (and currently maintains that project.)
 - I plan to put other things here.
 
 <!---
